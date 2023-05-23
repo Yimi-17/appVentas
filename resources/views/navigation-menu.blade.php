@@ -20,7 +20,7 @@
                  <!-- Navigation Links Categorias-->
                  <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
                     <x-nav-link href="{{ route('categories') }}" :active="request()->routeIs('categories')">
-                        {{ __('Categoria') }}
+                        {{ __('Categorias') }}
                     </x-nav-link>
                 </div>
 

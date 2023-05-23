@@ -11,7 +11,7 @@
                     <!--Boton nuevo   -->
                     <div>
                         <a href="" class="bg-indigo-600 px-4 py-2 rounded-md text-white font-semibold tracking-wide" >
-                            <i class="fa-solid fa-tag"></i> Nuevo
+                            <i class="fa-solid fa-tag"></i> Nueva Categoria
                         </a>
                     </div>
                 </div>
